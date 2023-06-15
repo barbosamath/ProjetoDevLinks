@@ -1,2 +1,2 @@
 # ProjetoDevLinks
- Projeto desenvolvido assistindo o Discover da Rocketseat
+ Através do Discover da Rocketseat estou desenvolvendo esse projeto aos poucos.
